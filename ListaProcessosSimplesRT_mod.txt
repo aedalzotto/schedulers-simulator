@@ -1,0 +1,21 @@
+Id TempoChegada TempoJob QtdJobs Deadline Prioridade
+1      1           12       07      13        2              91
+4      4           10       09      11        3              99
+0      0           10       10      11        1             110
+2      2           10       10      11        4             110
+5      5           12       10      13        5             130
+3      3           12       11      13        0             143
+
+
+
+Ignorar prioridade
+qtdjobs*deadline=periodo
+Ignorar tempo de chegada (sempre 0)
+Ignorar qtd jobs na execução (mostrar apenas 1 sequência de jobs)
+Fazer para jobs periódicos
+
+Definir uma variavel de tempo (clock) 100 clocks... 8 clocks
+
+0-1: 0
+1-9: 1.0
+14-
